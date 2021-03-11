@@ -8,17 +8,19 @@ import java.io.FileOutputStream;
  * TestEvidenceInterface: Interface Implementation. 
  */
 public interface TestEvidenceInterface {
-	//Method to create the Evidence
+	//Method to create the Evidence.
 	public void createEvidence(String path, String txtDescription, int step);
 	
-	//
+	//Method to close all instances involved with TestEvidence.
 	public Boolean closeWord(String path, FileOutputStream outPicture);
 	
+	//Sets Picture's heihght.
 	public void setHeight(int height);
 	
+	//Sets Pictures's width.
 	public void setWidth(int width);
 	
+	//Returns folder name.
 	public String returnFolderName();
-
 
 }//Interface

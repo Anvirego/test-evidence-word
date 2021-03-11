@@ -26,7 +26,7 @@ import com.github.anvirego.interfaces.TestEvidenceInterface;
 
 /**
  * @author Ing. Angelica Viridiana Rebolloza Gonzalez.
- * @version 2.0 03/2021.
+ * @version 3.0 03/2021.
  * TestEvidenceLogic: Library main logic. 
  */
 public class TestEvidenceLogic implements TestEvidenceInterface{

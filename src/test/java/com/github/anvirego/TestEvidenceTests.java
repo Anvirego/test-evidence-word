@@ -13,8 +13,6 @@ import com.github.anvirego.interfaces.TestEvidenceInterface;
 public class TestEvidenceTests {
 	
 	public static void main(String args[]) throws FileNotFoundException, IOException {
-		//cap = new Screenshot(driver, TestEvidence.getInstance(base.getPlatform(), scenario.getName(), base.getTesterName(), base.getEnvironment()), scenario.getName(), base.getLanguage());	
-
 		TestEvidenceInterface ti = TestEvidenceInstance.getInstance("Android", "Scenario", "Angelica", "UAT");
 		
 		ti.setHeight(0);
