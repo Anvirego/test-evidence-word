@@ -15,7 +15,7 @@ import org.apache.poi.xwpf.usermodel.XWPFRun;
 
 /**
  * @author Ing. Angélica Viridiana Rebolloza Gonzalez.
- * @version 3.0 03/2021.
+ * @version 3.1 03/2021.
  * TestEvidence: Creates the WordDocument from scratch.
  */
 public final class TestEvidence extends TestEvidenceLogic {
