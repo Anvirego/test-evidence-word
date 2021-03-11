@@ -5,6 +5,11 @@ import java.io.IOException;
 
 import com.github.anvirego.interfaces.TestEvidenceInterface;
 
+/**
+ * @author Ing. Angelica Viridiana Rebolloza Gonzalez.
+ * @version 2.0 03/2021. 
+ * TestEvidencesTests: Examples of implementation.
+ */
 public class TestEvidenceTests {
 	
 	public static void main(String args[]) throws FileNotFoundException, IOException {

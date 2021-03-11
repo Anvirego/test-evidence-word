@@ -26,7 +26,7 @@ import org.openxmlformats.schemas.wordprocessingml.x2006.main.STJc;
 import org.openxmlformats.schemas.wordprocessingml.x2006.main.STMerge;
 /**
  * @author Ing. Angélica Viridiana Rebolloza Gonzalez.
- * @version 2.1 02/2021.
+ * @version 3.0 03/2021.
  * TestEvidence: Creates the WordDocument from scratch.
  */
 public final class TestEvidence extends TestEvidenceLogic {
